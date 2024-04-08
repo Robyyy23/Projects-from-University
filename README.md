@@ -7,5 +7,4 @@
 
 # 代码作业+数据库+系统
 6. Hospital outpatient management system (2022)
-7. 
 
