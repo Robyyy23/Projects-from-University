@@ -5,6 +5,6 @@
 4. Analysis of Los Angeles Lakers NBA Championship Win in 2019-2020 (2021）
 5. Analysis of Taobao and Amazon shopping websites based on MIS theory (2020)
 
-# 代码作业+数据库+系统
+# 数据库+系统
 6. Hospital outpatient management system (2022)
 
